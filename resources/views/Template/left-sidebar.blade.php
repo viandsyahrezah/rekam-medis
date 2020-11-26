@@ -89,7 +89,7 @@
               <li class="nav-item">
                 <a href="#" class="nav-link">
                   <i class="fas fa-ambulance nav-icon"></i>
-                  <p>Rujuk Internal</p>
+                  <p>Rujuk Internall</p>
                 </a>
               </li>
             </ul>
